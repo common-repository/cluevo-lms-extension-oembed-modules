@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CLUEVO LMS Extension: oEmbed Modules\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-30 10:34+0000\n"
+"PO-Revision-Date: 2019-12-30 11:34+0100\n"
+"Last-Translator: CLUEVO Admin <office@sourcenova.at>\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Version: 2.2.2; wp-4.9.10\n"
+
+#: cluevo-lms-extension-oembed-modules.php:49
+msgid "YouTube, Vimeo, etc."
+msgstr "YouTube, Vimeo, etc."
+
+#: cluevo-lms-extension-oembed-modules.php:51
+msgid ""
+"Link to embeddable content to install as module. Example: YouTube, Vimeo, "
+"Soundclund, etc."
+msgstr ""
+"Link zu einem einbettbaren Inhalt eingeben und als Lektion installieren. "
+"Beispiel: YouTube, Vimeo, Soundcloud, etc."
+
+#: cluevo-lms-extension-oembed-modules.php:54
+msgid "Install Module"
+msgstr "Lektion installieren"
+
+#: cluevo-lms-extension-oembed-modules.php:130
+msgid ""
+"You must have the core CLUEVO LMS plugin installed and activated to use this "
+"plugin."
+msgstr ""
+"Das CLUEVO LMS Plugin muss installiert und aktiviert sein um dieses Plugin "
+"verwenden zu können."
+
+#: cluevo-lms-extension-oembed-modules.php:131
+msgid "Error"
+msgstr "Fehler"
+
+#: cluevo-lms-extension-oembed-modules.php:189
+msgid "An error occurred while trying to activate this module."
+msgstr "Beim Aktivieren der Lektion ist ein Fehler aufgetreten."
+
+#: cluevo-lms-extension-oembed-modules.php:193
+msgid "The existing module has been overwritten."
+msgstr "Die bereits existierende Lektion wurde überschrieben."
+
+#: cluevo-lms-extension-oembed-modules.php:195
+msgid "Module activated."
+msgstr "Lektion aktiviert."
+
+#: cluevo-lms-extension-oembed-modules.php:199
+msgid ""
+"An error occurred while trying to activate the module: Invalid oEmbed "
+"Provider."
+msgstr ""
+"Beim Aktivieren der Lektion ist ein Fehler aufgetreten: Ungültiger oEmbed "
+"Provider."
+
+#: cluevo-lms-extension-oembed-modules.php:245
+msgid "CLUEVO LMS not active!"
+msgstr "CLUEVO LMS nicht aktiv!"
+
+#: cluevo-lms-extension-oembed-modules.php:257
+msgid "The core CLUEVO LMS plugin must be active for this extension to work."
+msgstr ""
+"Das CLUEVO LMS Plugin muss aktiviert sein damit diese Erweiterung "
+"funktioniert."
+
+#. Name of the plugin
+msgid ""
+"CLUEVO LMS Extension: Video Tutorial Manager for YouTube (and other oEmbed "
+"providers)"
+msgstr ""
+"CLUEVO LMS Erweiterung: Video Tutorial Manager für YouTube (und andere "
+"oEmbed Provider)"
+
+#. Description of the plugin
+msgid "Enables oEmbed content as modules"
+msgstr "Ermöglicht oEmbed Inhalte als Lektionen"
+
+#. URI of the plugin
+msgid "https://www.cluevo.at"
+msgstr "https://www.cluevo.at"
+
+#. Author of the plugin
+msgid "CLUEVO"
+msgstr "CLUEVO"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/cluevo/"
+msgstr "https://profiles.wordpress.org/cluevo/"
+
+#~ msgid "Inhalt installieren"
+#~ msgstr "Inhalt installieren"
+
+#~ msgid ""
+#~ "Um diese Erweiterung verwenden zu können muss das CLUEVO LMS Plugin "
+#~ "aktiviert sein."
+#~ msgstr ""
+#~ "Um diese Erweiterung verwenden zu können muss das CLUEVO LMS Plugin "
+#~ "aktiviert sein."
+
+#~ msgid "Fehler"
+#~ msgstr "Fehler"
+
+#~| msgid ""
+#~| "Video Tutorial Manager for CLUEVO LMS: Embed YouTube Videos in your LMS"
+#~ msgid ""
+#~ "Video Tutorial Manager für CLUEVO LMS: YouTube Videos in dein LMS "
+#~ "einbinden"
+#~ msgstr ""
+#~ "Video Tutorial Manager für CLUEVO LMS: YouTube Videos in dein LMS "
+#~ "einbinden"
+
+#~ msgid "Ermöglicht das Einbinden von Modulen via oEmbed"
+#~ msgstr "Ermöglicht das Einbinden von Modulen via oEmbed"
+
+#~ msgid "CLUEVO LMS Extension: oEmbed Modules"
+#~ msgstr "CLUEVO LMS Extension: oEmbed Lektionen"
